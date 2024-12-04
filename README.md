@@ -7,5 +7,5 @@
 > 🧑‍🎄 [Antoine Advent of Code 2024](https://github.com/Antoine256/advent-of-code-2024)\
 > ☃️ [Jules Advent of Code 2023](https://github.com/JulesChe/adventOfCode2024)
 
-_Let it snow, let it snow and let it snow... !_ 🎶 5🌟
+_Let it snow, let it snow and let it snow... !_ 🎶 7🌟
 ![](public/christmas.gif)
